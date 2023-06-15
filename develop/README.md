@@ -27,7 +27,7 @@ N/A
 
 ## Usage
 
-Navigate the page to view my projects and learn a little about me
+Navigate to https://cashew1337.github.io/React_Portfolio/ to view my projects and learn a little about me
 
 ## License
 
