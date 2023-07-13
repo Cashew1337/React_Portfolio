@@ -49,6 +49,12 @@ function App() {
                   <span>HTML/CSS/JQuery/APIs</span>
                 </a>
               </div>
+                 <div className="flex-item placeholder1">
+                <a href="https://nameless-springs-87426-ab7084b2cd1d.herokuapp.com/" >
+                  <h3>Offres D'Art</h3>
+                  <span>React/MongoDB/GraphQL</span>
+                </a>
+              </div>
             </div>
           </div>
         </section>
